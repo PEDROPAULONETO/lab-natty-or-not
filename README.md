@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Podcast: Como a atividade física atua como uma ferramenta estratégica para aumentar a produtividade 🎙️
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este podcast revela uma discursão rápida sobre o E-book "Boost no Código, Reset no Cansaço" que avalia a importância da atividade física no aumento da produtividade dos profissionais de desenvolvimento.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[Gemini](https://gemini.google.com/)** para desenvolver o roteiro e revisa-lo;
+- IA Generativa **[NotebookLM](https://notebooklm.google/)** para criação de vozes e montagem do podcast.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+"Gemini" foi utilizado para desenvolver o E-book que é a base de discursão do podcast, também foi usado para roterizar e aprimorar a narrativa do podcast. "NotebookLM" criou as vozes para a narração e discurssão com base no roteiro e no E-book.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O episódio do podcast apresenta a atividade física como um componente vital para o sucesso e a produtividade de desenvolvedores de software, argumentando assim, que o sedentarismo típico da profissão prejudica o desempenho cognitivo, propondo que exercícios regulares funcionam como uma ferramenta para otimizar o foco e a clareza mental.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[LINK PARA O PODCAST AQUI](https://notebooklm.google.com/notebook/7ee5f7ed-589c-447b-abde-206ba0302092?artifactId=233b628a-0c28-4b4d-8ebd-34ec6cc18bfd)
 
-### Exemplos e Insigths
+## 💭 Reflexão
+Com o NotebookLM (Google) a ferramenta do momento, você sobe PDFs, links ou textos, e ele gera um "Audio Overview" — uma conversa super natural entre dois locutores discutindo o seu conteúdo. O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 🔗 Contato
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedropaulosneto/)
